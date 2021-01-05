@@ -1,12 +1,12 @@
 Hello World
 
 
-Change : to fix bug1 hy
-Changes Madehy
-Change to fix bug1
-change for bug2
-Changes Made
-change by teammate
-stash 
-New line added to work on CR1 and > added
-
+Change : to fix bug1 hy.
+Changes Madehy.
+Change to fix bug1.
+change for bug2.
+Changes Made.
+change by teammate.
+stash .
+New line added to work on CR1 and > added.
+change8 on remote master by teammate to test rebase with conflictcr2
