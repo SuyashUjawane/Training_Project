@@ -1,6 +1,7 @@
 Hello World
 
 
+
 Change : to fix bug1 hy.
 Changes Madehy.
 Change to fix bug1.
@@ -10,3 +11,14 @@ change by teammate.
 stash .
 New line added to work on CR1 and > added.
 change8 on remote master by teammate to test rebase with conflictcr2
+MODIFICATION DONE
+Change : To fix bug1 hy
+Changes Madehy
+Change to fix bug1
+change for bug2
+Changes Made
+change by teammate
+stash 
+New line added to work on CR1 and > added
+change 9 : WI9 on local master to test conflict with remote master
+
